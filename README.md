@@ -1,4 +1,4 @@
-# Multi-Pass-Shell-and-Tube-Heat-Exchanger-and-Solar-Collector
+# Solar Design Of Trec
 
 ## Overview
 This repository contains a complete Python-based simulation and analysis framework for:
